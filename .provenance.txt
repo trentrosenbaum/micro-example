@@ -1,0 +1,20 @@
+# generator info
+name: Spring Boot Rest Microservice
+group: atomist-project-templates
+artifact: spring-rest-service
+version: 3.1.1
+
+# backing git repo
+repo: git@github.com:atomist-project-templates/spring-rest-service.git
+branch: master
+sha: 98fc6284347d911ec117faa5b387e4b06ae463d7
+
+# parameter values
+project_name: micro-example
+artifact_id: micro-example
+group_id: com.mycompany.example
+version: 0.0.1-SNAPSHOT
+description: This is a sample micro project created throuhg Atomist
+root_package: com.mycompany.example
+service_class_name: MyCoolService
+
